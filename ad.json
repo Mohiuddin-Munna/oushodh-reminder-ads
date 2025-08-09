@@ -1,8 +1,26 @@
-{
-  "enabled": true,
-  "id": "sponsor_01",
-  "sponsorName": "পপুলার ডায়াগনস্টিক সেন্টার",
-  "tagline": "আপনার স্বাস্থ্যের বিশ্বস্ত সঙ্গী। সব পরীক্ষায় ২০% ছাড়!",
-  "logoUrl": "https://i.ibb.co/mHjwk4D/popular-logo.png",
-  "websiteUrl": "https://www.populardiagnostic.com/"
-}
+[
+  {
+    "enabled": true,
+    "id": "sponsor_01",
+    "sponsorName": "পপুলার ডায়াগনস্টিক সেন্টার",
+    "tagline": "আপনার স্বাস্থ্যের বিশ্বস্ত সঙ্গী। সব পরীক্ষায় ২০% ছাড়!",
+    "logoUrl": "https://www.populardiagnostic.com/assets/logo1-61ask-p-.webp",
+    "websiteUrl": "https://www.populardiagnostic.com/"
+  },
+  {
+    "enabled": true,
+    "id": "sponsor_02",
+    "sponsorName": "স্কয়ার হাসপাতাল",
+    "tagline": "আন্তর্জাতিক মানের স্বাস্থ্যসেবা এখন আপনার হাতের মুঠোয়।",
+    "logoUrl": "https://www.squarehospital.com/frontEnd/images/newImage/square_banner.png",
+    "websiteUrl": "https://www.squarehospital.com/"
+  },
+  {
+    "enabled": false,
+    "id": "sponsor_03",
+    "sponsorName": "ল্যাবএইড লিমিটেড",
+    "tagline": "নির্ভুল রোগ নির্ণয়ে আমরাই সেরা।",
+    "logoUrl": "https://labaidgroup.com/img/logo/labaid_logo.jpg",
+    "websiteUrl": "https://www.labaidgroup.com/"
+  }
+]
