@@ -23,8 +23,7 @@
   "logoUrl": "https://example.com/logo.png",
   "websiteUrl": "https://example.com"
 }
-
-
+```
 ### প্যারামিটারগুলোর বিস্তারিত বর্ণনা
 
 #### ➡️ `enabled`
